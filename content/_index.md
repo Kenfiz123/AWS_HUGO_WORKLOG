@@ -12,7 +12,11 @@ chapter: false
 ### Student Information:
 &emsp; **Full Name:** Nguyen Huu Thanh
 
+<<<<<<< HEAD
 &emsp; **Phone Number:** 0868489864
+=======
+&emsp; **Phone Number:** 0868489864 
+>>>>>>> cfe75be (Update homepage avatar path and content; add new avatar; rebuild public)
 
 &emsp; **Email:** thanhnhse173494@fpt.edu.vn
 
